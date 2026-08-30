@@ -249,4 +249,16 @@ body {
       .ul div {
         text-align: center; /* Align text to the center */
       }
+      .cart {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+}
+
+.cart-quantity {
+    font-size: 18px;
+    color: white;
+    margin-left: 5px;
+    vertical-align: top;
+}
   }
